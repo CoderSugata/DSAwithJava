@@ -1,5 +1,3 @@
-
-```markdown
 # 💻 DSA with Java
 
 Welcome to my **Data Structures and Algorithms (DSA)** repository using **Java**!  
@@ -39,4 +37,3 @@ This repo is a part of my learning journey to improve problem-solving skills and
 ---
 
 > ⭐ Star this repo to support and track progress — Happy Coding!
-```
