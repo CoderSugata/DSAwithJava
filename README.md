@@ -1,62 +1,74 @@
 
 ```markdown
-# 💻 DSA with Java
+# 📘 Java DSA Journey
 
-This repository contains my solutions to **Data Structures and Algorithms (DSA)** problems using **Java**.
-
-I created this to practice DSA regularly and improve my problem-solving skills for interviews and real-world applications.
+Welcome to my personal repository where I document my journey of solving **Data Structures and Algorithms (DSA)** problems using **Java**. This repository serves as a reference for practice, revision, and interview preparation.
 
 ---
 
-## 📚 Topics Covered
+## 🧠 What’s Inside?
 
-- ✅ Arrays  
-- ✅ Strings  
-- ✅ Linked Lists  
-- ✅ Stacks & Queues  
-- ✅ Trees  
-- ✅ Recursion  
-- ✅ Searching & Sorting  
-- ✅ Dynamic Programming  
-- ✅ Graphs  
+This repository is organized by DSA topics. Each folder contains Java code files with well-commented solutions to popular DSA problems.
+
+### ✅ Topics Covered:
+- Arrays & Strings
+- Linked Lists
+- Stacks & Queues
+- Recursion & Backtracking
+- Binary Trees & BST
+- HashMaps & Heaps
+- Graphs (BFS/DFS)
+- Sorting & Searching
+- Dynamic Programming
+- Greedy Algorithms
 
 ---
 
-## 📁 Folder Structure
+## 🛠️ Tech Stack
 
-Each folder is organized by topic. Inside, you'll find Java files with simple and clean code.
+- Language: **Java**
+- IDE: IntelliJ / Eclipse
+- Code Style: Clean, Modular, Commented
+
+---
+
+## 📁 Repository Structure
 
 ```
 
-DSAwithJava/
+Java-DSA-Journey/
 ├── Arrays/
 ├── Strings/
-├── LinkedLists/
+├── LinkedList/
+├── StackQueue/
 ├── Trees/
 ├── Graphs/
-└── ...
+├── Recursion/
+├── DP/
+└── README.md
 
 ```
 
 ---
 
-## 📌 Why This Repo?
+## 🚀 Why This Repository?
 
-- Practice coding in Java  
-- Build logic step-by-step  
-- Keep track of progress  
-- Easy to revisit and revise
-
----
-
-## 🔗 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-handle)  
-- [Instagram](https://www.instagram.com/your-instagram-handle)  
+🔹 Practice consistently  
+🔹 Build a strong problem-solving mindset  
+🔹 Keep code reusable and well-documented  
+🔹 Prepare efficiently for technical interviews
 
 ---
 
-Thanks for visiting! ⭐️ This repo is if you find it useful.
+## 📬 Contact Me
+
+Feel free to connect or reach out:
+
+- 📎 [LinkedIn](https://www.linkedin.com/in/your-linkedin)
+- 📸 [Instagram](https://www.instagram.com/your-instagram)
+
+---
+
+> “Code every day. Practice every day. Improve every day.” 💡
+
 ```
-
----
