@@ -1,6 +1,3 @@
-Absolutely! Here's a **simpler and cleaner version** of the `README.md` for your Java DSA repository—perfect for beginners and easy to follow:
-
----
 
 ```markdown
 # 💻 DSA with Java
