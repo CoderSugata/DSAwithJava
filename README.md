@@ -1,74 +1,43 @@
 
 ```markdown
-# 📘 Java DSA Journey
+# 💻 DSA with Java
 
-Welcome to my personal repository where I document my journey of solving **Data Structures and Algorithms (DSA)** problems using **Java**. This repository serves as a reference for practice, revision, and interview preparation.
-
----
-
-## 🧠 What’s Inside?
-
-This repository is organized by DSA topics. Each folder contains Java code files with well-commented solutions to popular DSA problems.
-
-### ✅ Topics Covered:
-- Arrays & Strings
-- Linked Lists
-- Stacks & Queues
-- Recursion & Backtracking
-- Binary Trees & BST
-- HashMaps & Heaps
-- Graphs (BFS/DFS)
-- Sorting & Searching
-- Dynamic Programming
-- Greedy Algorithms
-
----
-
-## 🛠️ Tech Stack
-
-- Language: **Java**
-- IDE: IntelliJ / Eclipse
-- Code Style: Clean, Modular, Commented
+Welcome to my **Data Structures and Algorithms (DSA)** repository using **Java**!  
+This repo is a part of my learning journey to improve problem-solving skills and get ready for coding interviews.
 
 ---
 
 ## 📁 Repository Structure
 
-```
-
-Java-DSA-Journey/
-├── Arrays/
-├── Strings/
-├── LinkedList/
-├── StackQueue/
-├── Trees/
-├── Graphs/
-├── Recursion/
-├── DP/
-└── README.md
-
-```
+| Folder           | Description                                      |
+|------------------|--------------------------------------------------|
+| `Arrays/`        | Problems based on arrays and common operations   |
+| `Strings/`       | String manipulation and pattern problems         |
+| `LinkedLists/`   | Singly and doubly linked list problems           |
+| `StacksQueues/`  | Stack and queue implementations & questions      |
+| `Trees/`         | Binary trees, BSTs, and tree traversals          |
+| `Graphs/`        | Graph algorithms – BFS, DFS, etc.                |
+| `Recursion/`     | Basic and advanced recursive problems            |
+| `Sorting/`       | Bubble, merge, quick sort, etc.                  |
+| `DP/`            | Dynamic programming questions                    |
 
 ---
 
-## 🚀 Why This Repository?
+## 💡 What I'm Learning
 
-🔹 Practice consistently  
-🔹 Build a strong problem-solving mindset  
-🔹 Keep code reusable and well-documented  
-🔹 Prepare efficiently for technical interviews
-
----
-
-## 📬 Contact Me
-
-Feel free to connect or reach out:
-
-- 📎 [LinkedIn](https://www.linkedin.com/in/your-linkedin)
-- 📸 [Instagram](https://www.instagram.com/your-instagram)
+- ✅ Writing clean Java code for DSA problems  
+- ✅ Solving common coding questions topic-wise  
+- 🧠 Improving logic, speed, and clarity  
+- 📘 Preparing for technical interviews step by step
 
 ---
 
-> “Code every day. Practice every day. Improve every day.” 💡
+## 📬 Connect with Me
 
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin-handle)  
+- [Instagram](https://www.instagram.com/your-instagram-handle)
+
+---
+
+> ⭐ Star this repo to support and track progress — Happy Coding!
 ```
