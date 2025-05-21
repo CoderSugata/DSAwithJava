@@ -5,7 +5,7 @@
 Welcome to my **Data Structures and Algorithms (DSA)** repository using **Java**!  
 This repo is a part of my learning journey to improve problem-solving skills and get ready for coding interviews.
 
----
+
 
 ## 📁 Repository Structure
 
@@ -21,7 +21,7 @@ This repo is a part of my learning journey to improve problem-solving skills and
 | `Sorting/`       | Bubble, merge, quick sort, etc.                  |
 | `DP/`            | Dynamic programming questions                    |
 
----
+
 
 ## 💡 What I'm Learning
 
@@ -30,14 +30,12 @@ This repo is a part of my learning journey to improve problem-solving skills and
 - 🧠 Improving logic, speed, and clarity  
 - 📘 Preparing for technical interviews step by step
 
----
 
 ## 📬 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-handle)  
-- [Instagram](https://www.instagram.com/your-instagram-handle)
+- [LinkedIn](https://www.linkedin.com/in/sugatamondal/)
+- [Instagram](https://www.instagram.com/sugata_12/)
 
----
 
 > ⭐ Star this repo to support and track progress — Happy Coding!
 ```
