@@ -31,10 +31,12 @@ This repo is a part of my learning journey to improve problem-solving skills and
 - 📘 Preparing for technical interviews step by step
 
 
-## 📬 Connect with Me
+## 📷 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/sugatamondal/)
 - [Instagram](https://www.instagram.com/sugata_12/)
+
+---
 
 
 > ⭐ Star this repo to support and track progress — Happy Coding!
